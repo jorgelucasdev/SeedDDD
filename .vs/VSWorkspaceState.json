@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Seed.Aplication",
+    "\\Seed.Aplication\\bin",
+    "\\Seed.Aplication\\bin\\Debug",
+    "\\Seed.Aplication\\bin\\Release",
+    "\\Seed.Aplication\\Controllers",
+    "\\Seed.Aplication\\obj",
+    "\\Seed.Aplication\\Properties",
+    "\\Seed.Service",
+    "\\Seed.Service\\Services"
+  ],
+  "SelectedNode": "\\Seed.Aplication\\Seed.Aplication.csproj",
+  "PreviewInSolutionExplorer": false
+}

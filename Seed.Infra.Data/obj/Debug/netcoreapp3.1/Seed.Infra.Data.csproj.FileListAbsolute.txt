@@ -1,0 +1,13 @@
+C:\Repositorios\DDD Sed\Seed.Infra.Data\bin\Debug\netcoreapp3.1\Seed.Infra.Data.deps.json
+C:\Repositorios\DDD Sed\Seed.Infra.Data\bin\Debug\netcoreapp3.1\Seed.Infra.Data.runtimeconfig.json
+C:\Repositorios\DDD Sed\Seed.Infra.Data\bin\Debug\netcoreapp3.1\Seed.Infra.Data.runtimeconfig.dev.json
+C:\Repositorios\DDD Sed\Seed.Infra.Data\bin\Debug\netcoreapp3.1\Seed.Infra.Data.dll
+C:\Repositorios\DDD Sed\Seed.Infra.Data\bin\Debug\netcoreapp3.1\Seed.Infra.Data.pdb
+C:\Repositorios\DDD Sed\Seed.Infra.Data\bin\Debug\netcoreapp3.1\Seed.Domain.dll
+C:\Repositorios\DDD Sed\Seed.Infra.Data\bin\Debug\netcoreapp3.1\Seed.Domain.pdb
+C:\Repositorios\DDD Sed\Seed.Infra.Data\obj\Debug\netcoreapp3.1\Seed.Infra.Data.csprojAssemblyReference.cache
+C:\Repositorios\DDD Sed\Seed.Infra.Data\obj\Debug\netcoreapp3.1\Seed.Infra.Data.AssemblyInfoInputs.cache
+C:\Repositorios\DDD Sed\Seed.Infra.Data\obj\Debug\netcoreapp3.1\Seed.Infra.Data.AssemblyInfo.cs
+C:\Repositorios\DDD Sed\Seed.Infra.Data\obj\Debug\netcoreapp3.1\Seed.Infra.Data.csproj.CopyComplete
+C:\Repositorios\DDD Sed\Seed.Infra.Data\obj\Debug\netcoreapp3.1\Seed.Infra.Data.dll
+C:\Repositorios\DDD Sed\Seed.Infra.Data\obj\Debug\netcoreapp3.1\Seed.Infra.Data.pdb

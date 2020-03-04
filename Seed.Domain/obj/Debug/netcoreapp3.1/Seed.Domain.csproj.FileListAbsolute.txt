@@ -1,0 +1,7 @@
+C:\Users\jorge\source\repos\DDD Sed\Seed.Domain\bin\Debug\netcoreapp3.1\Seed.Domain.deps.json
+C:\Users\jorge\source\repos\DDD Sed\Seed.Domain\bin\Debug\netcoreapp3.1\Seed.Domain.dll
+C:\Users\jorge\source\repos\DDD Sed\Seed.Domain\bin\Debug\netcoreapp3.1\Seed.Domain.pdb
+C:\Users\jorge\source\repos\DDD Sed\Seed.Domain\obj\Debug\netcoreapp3.1\Seed.Domain.AssemblyInfoInputs.cache
+C:\Users\jorge\source\repos\DDD Sed\Seed.Domain\obj\Debug\netcoreapp3.1\Seed.Domain.AssemblyInfo.cs
+C:\Users\jorge\source\repos\DDD Sed\Seed.Domain\obj\Debug\netcoreapp3.1\Seed.Domain.dll
+C:\Users\jorge\source\repos\DDD Sed\Seed.Domain\obj\Debug\netcoreapp3.1\Seed.Domain.pdb
